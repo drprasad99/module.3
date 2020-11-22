@@ -18,7 +18,8 @@
 }
 #nav-list a {
     background-color: white;
-    border-bottom: 0.5px solid
+    border-bottom: 0.5px solid;
+	    text-align: center;
     
 }
 h2 {
