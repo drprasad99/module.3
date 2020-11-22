@@ -59,3 +59,9 @@ h3 {
 	color: white;
 
 }
+.navbar-nav>li>a {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    line-height: 20px;
+    text-align: center;
+}
