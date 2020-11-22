@@ -1,0 +1,60 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+.navbar-default {
+	background-color:#0033cc;
+	border-radius: 0;
+}
+.navbar-default .navbar-brand {
+	margin-top:  5px;
+	color: white;
+	font-size: 2em;
+}	
+.navbar-nav {
+    background-color: white;
+    margin: -1px -14px 0 -15px;
+}
+#nav-list a {
+    background-color: white;
+    border-bottom: 0.5px solid
+    
+}
+h2 {
+	/*font-size: 1.5em;*/
+	font-weight: bold;
+	color: #0033cc;
+}
+.row {
+    margin-right: auto;
+    margin-left: auto;
+
+}
+.box {
+	padding: 20px 5px;
+}
+.content {
+    border: 1px solid black;
+    padding: 10px 25px;
+    background: #0033cc;
+    font-size: 1.2em;
+    color: white;
+    height: 900px;
+    position: relative;
+    overflow: auto;
+}
+
+h3 {
+	margin-top: 10px;
+    margin-bottom: 20px;
+    
+ }
+
+.box a.back {
+	position: absolute;
+	bottom: 5px;
+	right: 5px;
+	color: white;
+
+}
